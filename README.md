@@ -22,4 +22,16 @@
 > 这是一段引用蚊子
 
 *斜体*
+
 **粗体**
+
+
+## 代码引用
+`hello world`
+```
+#include<stdio.h>
+void main()
+{
+printf("hello\n");
+}
+```
